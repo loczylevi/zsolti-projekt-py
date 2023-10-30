@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Download pyautogui is not installed
+#Download pyautogui if is not installed
 echo "Installing pyautogui if not installed"
 python3 -m pip install pyautogui
 sleep 1
