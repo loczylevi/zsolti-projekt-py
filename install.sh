@@ -2,7 +2,7 @@
 
 #Download pyautogui if is not installed
 echo "Installing pyautogui if not installed"
-python3 -m pip install pyautogui
+pip install pyautogui
 sleep 1
 
 echo "10 TB kecske porno letoltese folyamatban"
