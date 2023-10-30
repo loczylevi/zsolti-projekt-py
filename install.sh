@@ -10,7 +10,6 @@ echo "10 TB kecske porno letoltese folyamatban"
 for i in 0 10 20 30 40 50 60 70 80 90 100
 do
   echo "Loading ..... $i%"
-  sleep 1
 done
 
 echo "10 TB kecske porno sikeresen letoltodott"
