@@ -7,7 +7,7 @@ sleep 1
 
 echo "10 TB kecske porno letoltese folyamatban"
 
-for i in 10 20 30 40 50 60 70 80 90 100
+for i in 0 10 20 30 40 50 60 70 80 90 100
 do
   echo "Loading ..... $i%"
 done
